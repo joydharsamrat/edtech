@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.primary-bg {
+    background-color: #289BDE;
+}
+
+.primary-text {
+    color: #289BDE;
+}
+
+.primary-border {
+    border-color: #289BDE;
+}
+
+.slide-bg1 {
+    background-image: url('images/cover/cover-1.png');
+    min-height: 85vh;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.slide-bg2 {
+    background-image: url('images/cover/cover-2.jpg');
+    min-height: 85vh;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.slide-bg3 {
+    background-image: url('images/cover/cover-3.jpg');
+    min-height: 85vh;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
