@@ -10,13 +10,18 @@ body {
     color: #289BDE;
 }
 
+h1 {
+    font-size: 5vw;
+    font-weight: bold;
+}
+
 .primary-border {
     border-color: #289BDE;
 }
 
 .slide-bg1 {
     background-image: url('images/cover/cover-1.png');
-    min-height: 85vh;
+    min-height: 100vh;
     background-position: center;
     background-size: cover;
     background-blend-mode: overlay;
@@ -24,7 +29,7 @@ body {
 
 .slide-bg2 {
     background-image: url('images/cover/cover-2.jpg');
-    min-height: 85vh;
+    min-height: 100vh;
     background-position: center;
     background-size: cover;
     background-blend-mode: overlay;
@@ -32,7 +37,7 @@ body {
 
 .slide-bg3 {
     background-image: url('images/cover/cover-3.jpg');
-    min-height: 85vh;
+    min-height: 100vh;
     background-position: center;
     background-size: cover;
     background-blend-mode: overlay;
