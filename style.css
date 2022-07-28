@@ -6,6 +6,10 @@ body {
     background-color: #289BDE;
 }
 
+.secondary-bg {
+    background-color: #F4FAFD;
+}
+
 .primary-text {
     color: #289BDE;
 }
