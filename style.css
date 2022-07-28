@@ -1,3 +1,6 @@
+/*-------------- 
+  common styles 
+---------------- */
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -23,6 +26,9 @@ h1 {
     border-color: #289BDE;
 }
 
+/*----------------
+ carousel styles 
+ ---------------- */
 .slide-bg1 {
     background-image: url('images/cover/cover-1.png');
     min-height: 100vh;
